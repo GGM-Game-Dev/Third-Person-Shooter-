@@ -1,4 +1,4 @@
-## Third Person Shooter Controller
+# Third Person Shooter Controller
 
 [PLAY ON ITCH](https://amitmelamed.itch.io/third-person-shooter)
 We created third person shooter controller that can walk, crouch, sprint, aim down sight and fire bullets from his rifle using instantiate a bullet with real physics, including basic gun magazine bullet management system and reloading animations.
